@@ -53,9 +53,4 @@ This project demonstrates practical application of data structures such as linke
 ## Acknowledgments
 This project was developed as part of the CSE111: Data Structures course under the supervision of **Professor Shaker El-Sappagh**.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 Thank you for using the Railway Booking System!
