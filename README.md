@@ -41,16 +41,6 @@ This project demonstrates practical application of data structures such as linke
 - Transition to a database for improved scalability and security
 - Add real-world payment gateway integration
 
-## Contributors
-- **Youssef Mohamed Elmeligy**
-- **Hady Mohamed Mossalam**
-- **Ammar Ramadan AbiZaid**
-- **Judy Amr Sharaawy**
-- **Deema Mohamed Ibrahim**
-- **Batool Aymen AboZaid**
-- **Abdelrahman Mohamed Negm**
 
 ## Acknowledgments
 This project was developed as part of the CSE111: Data Structures course under the supervision of **Professor Shaker El-Sappagh**.
-
-Thank you for using the Railway Booking System!
